@@ -1,0 +1,8 @@
+.App-header {
+  font-size: calc(10px + 2vmin);
+  margin-bottom: 2rem;
+}
+
+textarea {
+  width: 70vw;
+}
